@@ -1,6 +1,10 @@
 # Description
 ArUco markers are a type of visual marker designed for use in mixed reality (MR) and computer vision applications. These markers are typically black-and-white square patterns that can be easily detected and recognized by computer vision systems. ArUco markers are widely used for camera calibration, pose estimation, and object tracking in MR applications.
 In the PICO OS, ArUco markers are used to enhance the play space calibration in the LBE (Play Space) mode. The Enterprise SDK also includes an interface (SetMarkerInfoCallback) to retrieve marker information at runtime in Unity/Unreal apps.
+
+https://github.com/picoxr/ArUcoMarkerTracking/assets/15983798/87c131e0-9d2c-4f93-9673-5ea97bc43b90
+
+
 # Demo requirements
 - PICO Play Space (LBE Mode) must be enabled beforehand. For more information, refer to Configure LBE
 - A4 ArUco markers, ideally printed. Refer to: Play Space Recommendations section 2.
