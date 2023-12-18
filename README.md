@@ -27,6 +27,7 @@ int SetMarkerInfoCallback (TrackingOriginModeFlags trackingMode, float cameraYOf
 
 # Demo
 In this demo, you will be able to dynamically track up to 10 different ArUco markers, with size A4. The prefabs in "Prefab Array" will correspond to each marker's ID. So element 0 in the array will be assigned to the marker A4_0, and so on.
+
 ![image](https://github.com/picoxr/ArUcoMarkerTracking/assets/15983798/41e8bed4-a11c-478b-94b0-8434159d43f5)
 ![image](https://github.com/picoxr/ArUcoMarkerTracking/assets/15983798/0cff9a28-2f5d-4a17-8ffc-88cc485128d6)
 
