@@ -3,8 +3,8 @@ ArUco markers are a type of visual marker designed for use in mixed reality (MR)
 In the PICO OS, ArUco markers are used to enhance the play space calibration in the LBE (Play Space) mode. The Enterprise SDK also includes an interface (SetMarkerInfoCallback) to retrieve marker information at runtime in Unity/Unreal apps.
 
 # Demo requirements
-- PICO Play Space (LBE Mode) must be enabled beforehand. For more information, refer to Configure LBE
-- A4 ArUco markers, ideally printed. Refer to: Play Space Recommendations section 2.
+- PICO Play Space (LBE Mode) must be enabled beforehand. For more information, refer to [Configure LBE](https://business.picoxr.com/es/doc/Configure-LBE)
+- A4 ArUco markers, ideally printed. Refer to: [Play Space Recommendations section 2.](https://business.picoxr.com/es/doc/RoomMarkerLayoutRecommendationsandGuide#e8dfa543)
 - Unity 2022.3.f1
 - PICO XR SDK 2.4.0
 # Dependencies (UPM)
